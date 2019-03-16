@@ -1,0 +1,19 @@
+{
+  "name": "jsnuncamp",
+  "version": "1.0.0",
+  "description": "leaning JVscript",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Codedecoder1/JSleasrn.git"
+  },
+  "author": "ematos",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Codedecoder1/JSleasrn/issues"
+  },
+  "homepage": "https://github.com/Codedecoder1/JSleasrn#readme"
+}
